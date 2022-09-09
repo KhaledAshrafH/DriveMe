@@ -1,0 +1,9 @@
+server:
+  port:8080
+
+#spring:
+#  data:
+#    mongodb:
+#      database: Application.test
+#      host: localhost
+#      port: 27017
